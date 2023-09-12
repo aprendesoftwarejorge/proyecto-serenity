@@ -87,7 +87,7 @@ hr {
 }
 #menu a.navbar-brand i.fa {
 	font-size: 18px;
-	color: #54d0dd;
+	color: #40A5A7;
 	vertical-align: top;
 }
 #menu.navbar-default .navbar-nav > li > a {
@@ -97,22 +97,22 @@ hr {
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #54d0dd;
+	color: #40A5A7;
 }
 .on {
 	background-color: #343b42 !important;
 	padding: 0 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #54d0dd !important;
+	color: #40A5A7 !important;
 	background-color: transparent;
 }
 .navbar-toggle {
 	border-radius: 0;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-	background-color: #54d0dd;
-	border-color: #54d0dd;
+	background-color: #40A5A7;
+	border-color: #40A5A7;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #FFF;
@@ -123,7 +123,7 @@ hr {
 .btn-custom {
 	text-transform: uppercase;
 	color: #414a52;
-	background-color: #54d0dd;
+	background-color: #40A5A7;
 	border: 0;
 	padding: 14px 20px;
 	margin: 0;
@@ -133,12 +133,12 @@ hr {
 	transition: all 0.3s;
 }
 .btn-custom:hover, .btn-custom:focus, .btn-custom.focus, .btn-custom:active, .btn-custom.active {
-	color: #54d0dd;
+	color: #40A5A7;
 	background-color: #414a52;
 }
 .btn-default {
 	text-transform: uppercase;
-	color: #54d0dd;
+	color: #40A5A7;
 	background-color: #414a52;
 	border: 0;
 	padding: 14px 20px;
@@ -149,7 +149,7 @@ hr {
 	transition: all 0.3s;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	color: #54d0dd;
+	color: #40A5A7;
 	background-color: #343b42;
 }
 /* Header Section */
@@ -218,7 +218,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#414a52', GradientType=0 ); /* IE6-9 */
 }
 #portfolio h2 {
-	color: #54d0dd;
+	color: #40A5A7;
 }
 .categories {
 	padding-bottom: 30px;
@@ -233,12 +233,12 @@ ol.type li {
 }
 ol.type li a {
 	background: #414a52;
-	color: #54d0dd;
+	color: #40A5A7;
 	padding: 12px 24px;
 	text-transform: uppercase;
 }
 ol.type li a.active {
-	background: #54d0dd;
+	background: #40A5A7;
 	color: #414a52;
 }
 ol.type li a:hover {
