@@ -450,4 +450,5 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .logo{
 	width: 90px;
+	margin-top: -14px !important;
 }
